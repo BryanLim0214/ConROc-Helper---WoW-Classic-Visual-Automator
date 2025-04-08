@@ -17,6 +17,14 @@ A user-friendly application designed to assist World of Warcraft Classic players
 * **Desktop Notifications:** Provides desktop notifications for status changes.
 * **Monitoring Tab:** View live detection logs, status, and basic statistics.
 
+## 📸 Screenshot
+
+Here's a look at the main interface:
+
+![Screenshot of WoW Classic Rotation Helper GUI](https://cdn.discordapp.com/attachments/1046508713000845322/1358979993631457431/image.png?ex=67f5d03f&is=67f47ebf&hm=7c5941d757624e3c559b5b079a4da1e0f6963df6c4c6a78f9c95deb687b6beb1&)
+
+*(Note: Discord links may sometimes expire. It's recommended to download this image and upload it directly to the GitHub repository for long-term reliability if possible.)*
+
 ## 💾 Installation & Setup
 
 This application is provided as a standalone executable (`.exe`) for Windows.
@@ -35,7 +43,7 @@ This application is provided as a standalone executable (`.exe`) for Windows.
     * The X, Y, Width, and Height fields will update automatically.
     * (Optional) Click **Preview Area** to see a pop-up window showing a snapshot of the selected region.
 3.  **Add Your Spells:** ✨
-    * Go to the **Spells** tab.
+    * Go to the **Spells** tab (visible in the screenshot).
     * Click **Add New**.
     * **Spell Name:** Enter a descriptive name (e.g., "Fireball", "Heroic Strike").
     * **Keybinding:** ⌨️ Enter the exact keybind assigned to this spell on your WoW action bar (e.g., `1`, `f1`, `ctrl+5`, `shift+r`). Format: modifiers (`ctrl`, `alt`, `shift`) followed by `+`, then the key (use lowercase letters).
@@ -47,7 +55,7 @@ This application is provided as a standalone executable (`.exe`) for Windows.
         * **Option B: Browse:** Click **Browse...** and select an existing image file of the spell icon from your computer. Ensure the image is clear, well-cropped, and matches how it looks in the detection area.
     * The **Image Preview** box in the GUI will show the selected image if the path is valid.
     * Click **Save Spell**.
-4.  **Repeat Step 3** for all the spells you want the helper to recognize and use.
+4.  **Repeat Step 3** for all the spells you want the helper to recognize and use. Your added spells will appear in the "Configured Spells" list.
 5.  **Adjust Settings (Optional):** ⚙️
     * Go to the **Detection Settings** tab.
     * **Match Threshold:** Controls how closely the image must match (0.1 to 1.0). Higher values are stricter. Start around `0.7` or `0.8` and adjust if needed.
@@ -79,3 +87,11 @@ If you encounter any bugs or have suggestions for improvements or new features, 
 
 This software is provided under the [MIT License](link/to/your/license/file_or_text). ```
 
+**Changes Made:**
+
+1.  Re-added the `## 📸 Screenshot` section.
+2.  Inserted the provided Discord CDN link for the image.
+3.  Added a small note recommending hosting the image directly on GitHub if possible, due to the potential unreliability of external CDN links.
+4.  Slightly adjusted the "How to Use" section (Step 3 and 4) to reference the visible elements in the screenshot (Spells tab, Configured Spells list).
+
+Remember to replace the placeholder links (`link/to/your/...`) with your actual repository URLs!
