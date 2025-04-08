@@ -23,7 +23,7 @@ Here's a look at the main interface:
 
 ![Screenshot of WoW Classic Rotation Helper GUI](https://cdn.discordapp.com/attachments/1046508713000845322/1358979993631457431/image.png?ex=67f5d03f&is=67f47ebf&hm=7c5941d757624e3c559b5b079a4da1e0f6963df6c4c6a78f9c95deb687b6beb1&)
 
-*(Note: Discord links may sometimes expire. It's recommended to download this image and upload it directly to the GitHub repository for long-term reliability if possible.)*
+
 
 ## 💾 Installation & Setup
 
