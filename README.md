@@ -86,12 +86,3 @@ If you encounter any bugs or have suggestions for improvements or new features, 
 ## License
 
 This software is provided under the [MIT License](link/to/your/license/file_or_text). ```
-
-**Changes Made:**
-
-1.  Re-added the `## 📸 Screenshot` section.
-2.  Inserted the provided Discord CDN link for the image.
-3.  Added a small note recommending hosting the image directly on GitHub if possible, due to the potential unreliability of external CDN links.
-4.  Slightly adjusted the "How to Use" section (Step 3 and 4) to reference the visible elements in the screenshot (Spells tab, Configured Spells list).
-
-Remember to replace the placeholder links (`link/to/your/...`) with your actual repository URLs!
