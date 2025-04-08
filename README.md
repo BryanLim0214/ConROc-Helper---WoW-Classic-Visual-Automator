@@ -1,6 +1,6 @@
 # WoW Classic Rotation Helper
 
-![WoW Classic Rotation Helper Logo](logo.png) A user-friendly application designed to assist World of Warcraft Classic players by automatically executing keybinds based on visual spell proc or rotation helper addon recommendations (like ConROc). It monitors a specific area of your screen for spell icons and presses the corresponding key when a configured spell is detected.
+A user-friendly application designed to assist World of Warcraft Classic players by automatically executing keybinds based on visual spell proc or rotation helper addon recommendations (like ConROc). It monitors a specific area of your screen for spell icons and presses the corresponding key when a configured spell is detected.
 
 **Disclaimer:** Using automation tools like this may violate World of Warcraft's Terms of Service and could lead to account suspension or ban. **Use this software responsibly and at your own risk.** The developer is not responsible for any consequences resulting from its use.
 
