@@ -58,7 +58,7 @@ This application is provided as a standalone executable (`.exe`) for Windows.
 4.  **Repeat Step 3** for all the spells you want the helper to recognize and use. Your added spells will appear in the "Configured Spells" list.
 5.  **Adjust Settings (Optional):** ⚙️
     * Go to the **Detection Settings** tab.
-    * **Match Threshold:** Controls how closely the image must match (0.1 to 1.0). Higher values are stricter. Start around `0.7` or `0.8` and adjust if needed.
+    * **Match Threshold:** Controls how closely the image must match (0.1 to 1.0). Higher values are stricter. Start around `0.5` or `0.6` and adjust if needed.
     * **Min Spell Duration:** How long (in seconds) the helper might keep pressing the keybind if the same spell icon remains detected.
     * **Toggle Hotkey:** Change the key combination used to start/stop detection globally.
     * Click **Save Settings** after making changes.
